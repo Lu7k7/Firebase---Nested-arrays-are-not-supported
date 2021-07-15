@@ -1,2 +1,2 @@
 # Firebase---Nested-arrays-are-not-supported
-Depuis plus d'un mois je cherche a résoudre un problème majeur dans mon application IOS avec Firebase et la lecture et l'écriture de données.
+Depuis plus d'un mois je cherche a résoudre un problème majeur dans mon application IOS avec Firebase et la lecture et l'écriture de données. En effet, a chaque fois que je cherche a écrire des données mon application plante en m'affichant "Thread 1 : Nested arrays are not supported". Je n'arrète pas de chercher comment résoudre le problème cependant toutes les docs que j'ai pu trouver ne sont pas assez complètes pour résoudre mon problème. J'éspère donc peut etre trouver une ame charitable ici ;)
